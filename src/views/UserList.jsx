@@ -1,3 +1,4 @@
+import 'react-native-gesture-handler'
 import React from "react";
 import { View, Text, FlatList, Alert } from "react-native";
 import users from "../data/users";
